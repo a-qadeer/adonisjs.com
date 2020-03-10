@@ -49,7 +49,7 @@ You can also use the `inspect` method to inspect the value of a variable. For ex
 
 - `index`: The current iteration index. Starts from `0`
 - `isFirst`: Is this the first item of the array
-- `isLast`: Is this the first item of the array
+- `isLast`: Is this the last item of the array
 - `isOdd`: Is the current interation cycle an odd number
 - `isEven`: The opposite of `isOdd`
 - `total`: The total number of rows
